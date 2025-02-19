@@ -1,4 +1,4 @@
-const clientId = "43731ed098784e53a9d97d8098fbc863";
+const clientId = "Client_ID";
 const redirectUri = "http://localhost:5173/";
 const scope =
   "playlist-modify-public playlist-modify-private user-read-private user-read-email";
